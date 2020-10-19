@@ -12,7 +12,7 @@ pip install requests
 pip install numpy
 ```
 
-A més a més, és necessari instal·lar el Chrome Driver (https://sites.google.com/a/chromium.org/chromedriver/downloads) i guardar-lo en la mateixa ruta d'on s'executa l'arxiu. 
+A més a més, és necessari instal·lar el Chrome Driver (https://sites.google.com/a/chromium.org/chromedriver/downloads) i guardar-lo en la ruta del sistema (System Path).
 
 Les dimensions que s'extrauen sobre els llibres son les següents:
 - Títol del llibre

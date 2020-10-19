@@ -38,7 +38,12 @@ El objetivo es extraer la información disponible sobre los libros disponibles e
 
 Para poder ejecutar el script en el lenguage de programación Python, es necesario instalar las siguients librerias:
 
---
+```
+pip install pandas
+pip install selenium
+pip install requests
+pip install numpy
+```
 
 Las dimensions que se extraen sobre los libros se muestran a continuación:
 - Título del libro

@@ -10,9 +10,8 @@ pip install pandas
 pip install selenium
 pip install requests
 pip install numpy
+pip install chromedriver-py
 ```
-
-A més a més, és necessari instal·lar el Chrome Driver (https://sites.google.com/a/chromium.org/chromedriver/downloads) i guardar-lo en la ruta del sistema (System Path).
 
 Les dimensions que s'extrauen sobre els llibres son les següents:
 - Títol del llibre
@@ -44,6 +43,7 @@ pip install pandas
 pip install selenium
 pip install requests
 pip install numpy
+pip install chromedriver-py
 ```
 
 Las dimensions que se extraen sobre los libros se muestran a continuación:

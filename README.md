@@ -5,7 +5,10 @@ L'objectiu és extreure la informació disponible sobre els llibres que es venen
 
 Per tal d'executar el script en el llenguatge de programació Python, és necessari instal·lar les següents llibreries:
 
---
+'pip install pandas'
+pip install selenium
+pip install requests
+pip install numpy
 
 Les dimensions que s'extrauen sobre els llibres son les següents:
 - Títol del llibre

@@ -12,6 +12,7 @@ pip install requests
 pip install numpy
 
 
+
 Les dimensions que s'extrauen sobre els llibres son les següents:
 - Títol del llibre
 - Autor del llibre

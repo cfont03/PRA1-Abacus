@@ -24,6 +24,7 @@ import requests
 import urllib
 import os
 import datetime
+import randint
 
 
 '''
@@ -84,7 +85,7 @@ for page in range(1,int(n_pagines)+1,1):
             #driver.get("https://www.abacus.coop/es/libros?pageNo=" + str(page))     
             driver.get("https://www.abacus.coop/es/libros/novedades-en-libros/?pageNo=" + str(page))     
         incategory = driver.find_elements_by_class_name("product-tile-container")
-        for i in range(len(incategory))
+        for i in range(len(incategory)):
             item = incategory[i]
             # Get the href property
             a = item.find_element_by_tag_name("h3").find_element_by_tag_name("a").get_property("href")

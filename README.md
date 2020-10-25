@@ -29,9 +29,8 @@ Per tal d'executar el script en el llenguatge de programació Python, és necess
 ```
 pip install pandas
 pip install selenium
-pip install requests
-pip install numpy
 pip install chromedriver-py
+
 ```
 Important: és necessari tenir instal·lat el "Chrome Driver" a la mateixa ruta des d'on s'executarà l'arxiu .py. 
 

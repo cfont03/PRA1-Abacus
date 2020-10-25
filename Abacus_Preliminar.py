@@ -2,7 +2,7 @@
 """
 Created on Thu Oct 22 14:18:45 2020
 
-@author: jdil / cfont
+@author: jdil
 """
 
 
@@ -110,17 +110,17 @@ all_details = []
 
 def asigna (etiqueta,valor):    
     global tipus_producte, ean, ref_abacus, encuaderna, coleccio, materia
-    if (etiqueta == "Tipo de producto:" or etiqueta == "Tipus de producte:"):           
+    if (etiqueta == "Tipo de producto:" ):           
         tipus_producte = valor.replace("\n","")        
     elif (etiqueta == "EAN:"):           
         ean = valor.replace("\n","")        
-    elif (etiqueta == 'Referencia Abacus:' or etiqueta == 'Referència Abacus:'):
+    elif (etiqueta == 'Referencia Abacus:'):
         ref_abacus = valor.replace("\n","")        
     elif (etiqueta == 'Encuadernación:' or etiqueta == 'Encuadernació:'):
         encuaderna = valor.replace("\n","")        
     elif (etiqueta == 'Colección:' or etiqueta == 'Colecció:'):
         coleccio = valor.replace("\n","")        
-    elif (etiqueta == 'Materia:'):
+    elif (etiqueta == 'Materia:' or etiqueta == 'Assignatura:'):
         materia = valor.replace("\n","")                
 ##################################################################################
 

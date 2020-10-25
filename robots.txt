@@ -1,0 +1,38 @@
+Disallow: /*?*
+
+# es 
+Disallow: /es/recuperar-contrasena
+Disallow: /es/registro
+Disallow: /es/mi-cesta
+Disallow: /es/mi-cesta
+Disallow: /es/compra
+Disallow: /es/compra
+Disallow: /es/contacto
+Disallow: /es/nueva-direcion
+Disallow: /es/editar-direccion
+Disallow: /es/mi-cuenta-editar-perfil
+Disallow: /es/mi-cuenta
+Disallow: /es/mi-cuenta-direcciones
+Disallow: /es/mi-cuenta-pedidos
+Disallow: /es/confirmacion-pedido
+Disallow: /es/mi-cuenta-pedido
+
+# ca
+Disallow: /ca/recuperar-contrasenya
+Disallow: /ca/registre
+Disallow: /ca/la-meva-cistella
+Disallow: /ca/la-meva-cistella
+Disallow: /ca/compra
+Disallow: /ca/compra
+Disallow: /ca/contacte
+Disallow: /ca/nova-adreca
+Disallow: /ca/editar-adreca
+Disallow: /ca/meu-compte-editar-perfil
+Disallow: /ca/meu-compte
+Disallow: /ca/meu-compte-direccions
+Disallow: /ca/meu-compte-comandes
+Disallow: /ca/confirmacio-comanda
+Disallow: /ca/meu-compte-comanda
+
+#Sitemap
+Sitemap: https://www.abacus.coop/sitemap_index.xml

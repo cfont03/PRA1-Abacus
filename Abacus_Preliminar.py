@@ -24,7 +24,7 @@ import requests
 import urllib
 import os
 import datetime
-import randint
+import random
 
 
 '''
@@ -57,7 +57,7 @@ driver = webdriver.Chrome()
 driver.get("https://www.abacus.coop/es/libros/novedades-en-libros")
 
 # Indicació que s'esperi entre un i dos segons a carregar la pàgina
-time.sleep(randint(1,2))
+time.sleep(random.randint(1,2))
 
 
 '''
@@ -93,7 +93,7 @@ for page in range(1,int(n_pagines)+1,1):
             #print('ref: ' + a)
             links.append(a) 
         # Definim que s'esperi entre 2 i 5 segons a canviar de pàgina per tal de simular un tarannà més humà
-        time.sleep(randint(2,5))
+        time.sleep(random.randint(2,5))
     except:
         print('Error al recuperar els links a les pàgines de cadascun dels llibres')
         driver.close()
@@ -299,7 +299,7 @@ for llibre in links:
          #"Sinopsis": sinopsis
  		} 			
     all_details.append(r)
-    time.sleep(randint(1,2))
+    time.sleep(random.randint(1,2))
   
 # Emmagatzament de la informació en un CSV
 df = pd.DataFrame(all_details)

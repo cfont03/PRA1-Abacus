@@ -10,7 +10,6 @@ Created on Thu Oct 22 14:18:45 2020
 '''
 
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 
 import time
 import pandas as pd

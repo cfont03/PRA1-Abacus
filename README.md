@@ -3,7 +3,7 @@
 
 L'empresa "La llar del llibre" ha notat una forta baixada de ventes en llibres en els darrers 18 mesos. Sense saber-ne el motiu exacte, una de les sospitoses raons és que el catàleg de llibres ofert és, en general, més car que la competència. Amb l'objectiu de recuperar-ne el mercat, l'empresa s'ha adreçat a dos estudiants de la UOC per tal de fer una anàlisi de la competència més directe, amb servei tant de venta a botiga com online: l'empresa Abacus Cooperativa. 
 
-És per això que l'objectiu d'aquesta primera pràctica és extreure la informació disponible sobre tots els llibres que es venen a través de la pàgina web de l'empresa Abacus Cooperativa (https://www.abacus.coop/es/libros), de manera automàtica. Consqüentment, "La llar del llibre" podrà fer un seguiment constant i s'hi podran ajustar de manera més precisa amb l'esperança de recuperar-ne les ventes perdudes. 
+És per això que l'objectiu d'aquesta primera pràctica és extreure la informació disponible sobre tots els llibres que es venen a través de la pàgina web de l'empresa Abacus Cooperativa (https://www.abacus.coop/es/libros), de manera automàtica. Consqüentment, "La llar del llibre" podrà fer un seguiment constant i s'hi podrà ajustar de manera més precisa amb l'esperança de recuperar-ne les ventes perdudes. 
 
 Les dimensions que s'extrauen sobre els llibres són les següents, en el mateix ordre, guardades en un arxiu CSV (excepte la Imatge, on es guardarà en una carpeta en el directori d'on s'executa el script). 
 - Títol del llibre

@@ -48,19 +48,15 @@ def imagen_descarga (url):
     nombre = str (url.split ('/') [- 1])
     urllib.request.urlretrieve (url, os.path.join (dir_path, nombre))
 
-# Establimem del directori al chrome driver
-    ## Idealment, indiquem que el chrome dirver està guardat a la mateixa carpeta des d'on s'executa el script
-#chrome_path = os.path.join(dir_root, 'chromedriver')
-#driver = webdriver.Chrome(dir_root)
-    ## Fer-ho impersonal!!
-PATH = "D:/Apps/Python36/CODI/chromedriver"
-driver = webdriver.Chrome(PATH)
+# Establimem del directori d'on s'executa l'arxiu .py al chrome driver
+#PATH = "D:/Apps/Python36/CODI/chromedriver"
+driver = webdriver.Chrome()
 
 # Definició d'origen a rascar
 driver.get("https://www.abacus.coop/es/libros/novedades-en-libros")
 
 # Indicació que s'esperi entre un i dos segons a carregar la pàgina
-time.sleep(randing(1,2))
+time.sleep(randint(1,2))
 
 
 '''

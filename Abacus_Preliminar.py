@@ -14,12 +14,6 @@ from selenium.webdriver.common.keys import Keys
 
 import time
 import pandas as pd
-import numpy as np
-import re
-import time
-
-from bs4 import BeautifulSoup
-import requests
 
 import urllib
 import os

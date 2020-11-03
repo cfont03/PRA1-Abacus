@@ -9,6 +9,8 @@ Amb l'objectiu de recuperar-ne el mercat, l'empresa s'ha adreçat a dos estudian
 
 (3) És per això que l'objectiu d'aquesta primera pràctica és extreure la informació disponible sobre tots els llibres que es venen a través de la pàgina web de l'empresa Abacus Cooperativa (https://www.abacus.coop/es/libros), de manera automàtica. Conseqüentment, "La llar del llibre" podrà fer un seguiment constant i s'hi podrà ajustar de manera més precisa amb l'esperança de recuperar-ne les ventes perdudes. 
 
+(2) És per tant que el dataset extret rebrà el títol de "Catàleg de llibres Abacus Coop."
+
 (5) Les dimensions que s'extrauen sobre els llibres són les següents, en el mateix ordre, guardades en un arxiu CSV (excepte la Imatge, on es guardarà en una carpeta en el directori d'on s'executa el script). 
 - Títol del llibre
 - Autor del llibre
@@ -26,8 +28,8 @@ Amb l'objectiu de recuperar-ne el mercat, l'empresa s'ha adreçat a dos estudian
 - Imatge
 - Data d'extracció
 
-Tot i que la variable del preu és la més important per a "La llar del llibre", recomanem col·leccionar també les altres dimensions disponibles, ja que poden tenir una influència directe en el preu (per exemple, el tipus d'encuadernació o l'editorial). 
-Aquestes variables seran vàlides només en el moment que s'executa el script. És per tant que també recomenem que aquest s'executi de manera periòdica, ja sigui quinzenalment o mensualment, per tal de fer un seguiment de l'evolució de la disponibilitat del catàleg i dels seus preus. 
+Tot i que la variable del preu pot semblar la més important per a "La llar del llibre", recomanem col·leccionar també les altres dimensions disponibles, ja que poden tenir una influència directe en el preu (per exemple, la disponibilitat, el tipus d'encuadernació o l'editorial). 
+Aquestes variables seran vàlides només en el moment que s'executa el script. És per tant que també recomanem que aquest s'executi de manera periòdica, ja sigui quinzenalment o mensualment, per tal de fer un seguiment de l'evolució de la disponibilitat del catàleg i dels seus preus. 
 
 Per tal d'executar el script en el llenguatge de programació Python, és necessari instal·lar les següents llibreries:
 
@@ -40,6 +42,7 @@ Important: és necessari tenir instal·lat el "Chrome Driver" a la mateixa ruta 
 
 ## Agraïments
 (6) En primer lloc, agraïm 
+
 ## Llicència
 (8) El codi proporcionat així com les dades es publicarien sota la llicència Creative Commons Non-Commrcial i Share-Alike, també coneguda com CC BY-NC-SA 4.0, i que inclou les següents condicions:
 - Es permet copiar, redistribuir, adaptar i modificar el material a través de qualsevol mitjà o format, així fomentant la col·laboració i filosofia "open-source".

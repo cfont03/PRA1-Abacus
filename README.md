@@ -1,8 +1,8 @@
 # Repositori_Llibreria_Abacus_WebScraping
 
-*Entre parèntesi s'indica el número de pregunta de la Pràctica que respon*
+*Entre parèntesi s'indica el número de pregunta de la PRA1 que respon*
 
-(1) El model de negoci tradicional ha experimentat un gran canvi en els darrers anys. En el seu moment i, encara avui dia, el petit negoci ha de fer front a les grans superfícies. Actualment, però, cal també afrontar la competència online. 
+***(1)*** El model de negoci tradicional ha experimentat un gran canvi en els darrers anys. En el seu moment i, encara avui dia, el petit negoci ha de fer front a les grans superfícies. Actualment, però, cal també afrontar la competència online. 
 L'empresa "La llar del llibre" ha notat una forta baixada de ventes en llibres en els darrers 18 mesos. Durant aquest temps, de forma poc estructurada, l'empresa ha dut a terme diverses metodologies per tal de recuperar-ne les ventes: abaixar preus, incrementar la promoció online, millorar els temps d'entrega en la venta online, entre d'altres. 
 Després de veure que aquestes no han sorgit quasi efecte, l'empresa ha decidit focalitzar-se en la seva competència més directe i més forta online, l'empresa Abacus Cooperativa, especialment després d'haver llegit la següent notícia: https://eshowmagazine.com/ultimas-noticias/abacus-incrementa-sus-ventas-online-un-245-en-2018/
 Amb l'objectiu de recuperar-ne el mercat, l'empresa s'ha adreçat a dos estudiants de la UOC per tal de fer una anàlisi sobre els llibres venuts online en la pàgina web de l'Abacus Coop. 

@@ -3,7 +3,9 @@
 *Entre parèntesi s'indica el número de pregunta de la Pràctica que respon*
 
 (1) El model de negoci tradicional ha experimentat un gran canvi en els darrers anys. En el seu moment i, encara avui dia, el petit negoci ha de fer front a les grans superfícies. Actualment, però, cal també afrontar la competència online. 
-L'empresa "La llar del llibre" ha notat una forta baixada de ventes en llibres en els darrers 18 mesos. Sense saber-ne el motiu exacte, una de les sospitoses raons és que el catàleg de llibres ofert és, en general, més car que la competència. Amb l'objectiu de recuperar-ne el mercat, l'empresa s'ha adreçat a dos estudiants de la UOC per tal de fer una anàlisi de la competència més directe, amb servei tant de venta a botiga com online: l'empresa Abacus Cooperativa. 
+L'empresa "La llar del llibre" ha notat una forta baixada de ventes en llibres en els darrers 18 mesos. Durant aquest temps, de forma poc estructurada, l'empresa ha dut a terme diverses metodologies per tal de recuperar-ne les ventes: abaixar preus, incrementar la promoció online, millorar els temps d'entrega en la venta online, entre d'altres. 
+Després de veure que aquestes no han sorgit quasi efecte, l'empresa ha decidit focalitzar-se en la seva competència més directe i més forta online, l'empresa Abacus Cooperativa, especialment després d'haver llegit la següent notícia: https://eshowmagazine.com/ultimas-noticias/abacus-incrementa-sus-ventas-online-un-245-en-2018/
+Amb l'objectiu de recuperar-ne el mercat, l'empresa s'ha adreçat a dos estudiants de la UOC per tal de fer una anàlisi sobre els llibres venuts online en la pàgina web de l'Abacus Coop. 
 
 (3) És per això que l'objectiu d'aquesta primera pràctica és extreure la informació disponible sobre tots els llibres que es venen a través de la pàgina web de l'empresa Abacus Cooperativa (https://www.abacus.coop/es/libros), de manera automàtica. Conseqüentment, "La llar del llibre" podrà fer un seguiment constant i s'hi podrà ajustar de manera més precisa amb l'esperança de recuperar-ne les ventes perdudes. 
 
@@ -37,7 +39,15 @@ pip install chromedriver-py
 Important: és necessari tenir instal·lat el "Chrome Driver" a la mateixa ruta des d'on s'executarà l'arxiu .py. 
 
 ## Agraïments
-(6) 
+(6) En primer lloc, agraïm 
 ## Llicència
 (8) El codi proporcionat així com les dades es publicarien sota la llicència Creative Commons Non-Commrcial i Share-Alike, també coneguda com CC BY-NC-SA 4.0, i que inclou les següents condicions:
-- El
+- Es permet copiar, redistribuir, adaptar i modificar el material a través de qualsevol mitjà o format, així fomentant la col·laboració i filosofia "open-source".
+- Per tal de promoure'n la col·laboració, queda garantit que qualsevol modificació o ús del material serà publicat sota la mateixa llicència, indicat sota el terme "Share Alike". 
+- El material no pot ser emprat amb finalitats comercials i, per tant, l'àmbit es redueix purament a l'acadèmic, indicat sota el terme "Non Commercial". 
+
+## Codificació
+(9) Veure arxiu Abacus.py
+
+## Dataset
+(10) 

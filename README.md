@@ -5,7 +5,7 @@
 **(1)** El model de negoci tradicional ha experimentat un gran canvi en els darrers anys. En el seu moment i, encara avui dia, el petit negoci ha de fer front a les grans superfícies. Actualment, però, cal també afrontar la competència online. 
 L'empresa "La llar del llibre" ha notat una forta baixada de ventes en llibres en els darrers 18 mesos. Durant aquest temps, de forma poc estructurada, l'empresa ha dut a terme diverses metodologies per tal de recuperar-ne les ventes: abaixar preus, incrementar la promoció online, millorar els temps d'entrega en la venta online, entre d'altres. 
 Després de veure que aquestes no han sorgit quasi efecte, l'empresa ha decidit focalitzar-se en la seva competència més directe i més forta online, l'empresa Abacus Cooperativa, especialment després d'haver llegit la següent notícia: https://eshowmagazine.com/ultimas-noticias/abacus-incrementa-sus-ventas-online-un-245-en-2018/
-Amb l'objectiu de recuperar-ne el mercat, l'empresa s'ha adreçat a dos estudiants de la UOC per tal de fer una anàlisi sobre els llibres venuts online en la pàgina web de l'Abacus Coop. 
+Amb l'objectiu de recuperar-ne el mercat, l'empresa s'ha adreçat a dos estudiants de la Universitat Oberta de Catalunya per tal de fer una anàlisi sobre els llibres venuts online en la pàgina web de l'Abacus Coop. 
 
 **(3)** És per això que l'objectiu d'aquesta primera pràctica és extreure la informació disponible sobre tots els llibres que es venen a través de la pàgina web de l'empresa Abacus Cooperativa (https://www.abacus.coop/es/libros), de manera automàtica. Conseqüentment, "La llar del llibre" podrà fer un seguiment constant i s'hi podrà ajustar de manera més precisa amb l'esperança de recuperar-ne les ventes perdudes. 
 
@@ -48,7 +48,9 @@ Important: és necessari tenir instal·lat el "Chrome Driver" a la mateixa ruta 
 - Veure'n les ofertes puntuals, analitzar cada quan es llancen i quin dia de la setmana per tal d'establir una política d'ofertes dins "La llar del llibre"
 
 ### Agraïments
-**(6)** En primer lloc, agraïm a la família Fàbregues, propietaris de "La llar del llibre", la plena confiança concedida en nosaltres.  
+**(6)** En primer lloc, agraïm a la família Fàbregues, propietaris de "La llar del llibre", la plena confiança concedida en nosaltres. Aquesta fe ens dona la oportunitat de posar en pràctica real els coneixements adquirits al llarg dels nostres estudis. Per part nostra, esperem haver assolit els objectius i requeriments plantejats per "La llar del llibre" amb total plenitud. 
+En segon lloc, donar gràcies pel recolzament del professor col·laborador de la Universitat Oberta de Catalunya Sergio Trilles Oliver, per proporcionar-nos dels recursos necessaris per aprendre a fer "Web Scraping". 
+Finalment, agrair el constant suport moral de les nostres famílies en el desenvolupament d'aquesta activitat. 
 
 ### Llicència
 **(8)** El codi proporcionat així com les dades es publicarien sota la llicència Creative Commons Non-Commrcial i Share-Alike, també coneguda com CC BY-NC-SA 4.0, i que inclou les següents condicions:

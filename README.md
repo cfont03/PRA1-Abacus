@@ -36,4 +36,8 @@ pip install chromedriver-py
 ```
 Important: és necessari tenir instal·lat el "Chrome Driver" a la mateixa ruta des d'on s'executarà l'arxiu .py. 
 
-(6) # Agraïments
+## Agraïments
+(6) 
+## Llicència
+(8) El codi proporcionat així com les dades es publicarien sota la llicència Creative Commons Non-Commrcial i Share-Alike, també coneguda com CC BY-NC-SA 4.0, i que inclou les següents condicions:
+- El

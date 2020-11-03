@@ -1,6 +1,6 @@
 # Repositori_Llibreria_Abacus_WebScraping
 
-* Entre parèntesi s'indica el número de pregunta de la Pràctica que respon*
+*Entre parèntesi s'indica el número de pregunta de la Pràctica que respon*
 
 (1) El model de negoci tradicional ha experimentat un gran canvi en els darrers anys. En el seu moment i, encara avui dia, el petit negoci ha de fer front a les grans superfícies. Actualment, però, cal també afrontar la competència online. 
 L'empresa "La llar del llibre" ha notat una forta baixada de ventes en llibres en els darrers 18 mesos. Sense saber-ne el motiu exacte, una de les sospitoses raons és que el catàleg de llibres ofert és, en general, més car que la competència. Amb l'objectiu de recuperar-ne el mercat, l'empresa s'ha adreçat a dos estudiants de la UOC per tal de fer una anàlisi de la competència més directe, amb servei tant de venta a botiga com online: l'empresa Abacus Cooperativa. 
@@ -36,4 +36,4 @@ pip install chromedriver-py
 ```
 Important: és necessari tenir instal·lat el "Chrome Driver" a la mateixa ruta des d'on s'executarà l'arxiu .py. 
 
-(6). # Agraïments
+(6) # Agraïments

@@ -47,19 +47,19 @@ Important: és necessari tenir instal·lat el "Chrome Driver" a la mateixa ruta 
 - Veure si l'editorial té una influència en el preu de venta
 - Veure'n les ofertes puntuals, analitzar cada quan es llancen i quin dia de la setmana per tal d'establir una política d'ofertes dins "La llar del llibre"
 
-## Agraïments
+### Agraïments
 **(6)** En primer lloc, agraïm a la família Fàbregues, propietaris de "La llar del llibre", la plena confiança concedida en nosaltres.  
 
-## Llicència
+### Llicència
 **(8)** El codi proporcionat així com les dades es publicarien sota la llicència Creative Commons Non-Commrcial i Share-Alike, també coneguda com CC BY-NC-SA 4.0, i que inclou les següents condicions:
 - Es permet copiar, redistribuir, adaptar i modificar el material a través de qualsevol mitjà o format, així fomentant la col·laboració i filosofia "open-source".
 - Per tal de promoure'n la col·laboració, queda garantit que qualsevol modificació o ús del material serà publicat sota la mateixa llicència, indicat sota el terme "Share Alike". 
 - El material no pot ser emprat amb finalitats comercials i, per tant, l'àmbit es redueix purament a l'acadèmic, indicat sota el terme "Non Commercial". 
 
-## Codificació
+### Codificació
 **(9)** Veure arxiu Abacus.py
 
-## Dataset
+### Dataset
 **(10)** El resultat del data set es troba publicat en dues fonts diferents:
 - Github: Veure carpeta CSV, Arxiu XYZ
 - Zeonodo: Veure link XYZ

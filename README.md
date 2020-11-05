@@ -42,7 +42,7 @@ Important: és necessari tenir instal·lat el "Chrome Driver" a la mateixa ruta 
 
 A més a més, en executar el script, l'usuari té la oportunitat d'escollir dos paràmetres, si s'escau:
 - Paràmetre 1: L'usuari pot escollir entre les següents classificacions. En cas de no indicar-se, es descarregaran les dades a partir de la pàgina principal (https://www.abacus.coop/es/libros)
-  - top
+  - <<top>>
   - novetat
   - comic
   - viatge

@@ -40,6 +40,19 @@ pip install chromedriver-py
 ```
 Important: és necessari tenir instal·lat el "Chrome Driver" a la mateixa ruta des d'on s'executarà l'arxiu .py. 
 
+A més a més, en executar el script, l'usuari té la oportunitat d'escollir dos paràmetres, si s'escau:
+- Paràmetre 1: L'usuari pot escollir entre les següents classificacions. En cas de no indicar-se, es descarregaran les dades a partir de la pàgina principal (https://www.abacus.coop/es/libros)
+  - top
+  - novetat
+  - comic
+  - viatge
+  - informatica
+  - noficcio
+  - 
+
+
+- Paràmetre 2, número de pàgines: Variable numèrica. En cas de no indicar-se, es descarregaran les dades de totes les pàgines disponibles. 
+
 **(7)** Amb aquest tipus d'anàlisis pretenem respondre a les següents preguntes i actuar conseqüentment:
 - Evolució de preus (tant PVP com de socis) per llibre i al llarg del temps, la qual cosa permetrà al nostre client adaptar-ne els preus.
 - Analitzar la diferència entre Preu PVP i de Soci i considerar la possibilitat d'aplicar un política semblant
@@ -63,5 +76,5 @@ Finalment, agrair el constant suport moral de les nostres famílies en el desenv
 
 ### Dataset
 **(10)** El resultat del data set es troba publicat en dues fonts diferents:
-- Github: Veure carpeta CSV, Arxiu XYZ
-- Zeonodo: Veure link XYZ
+- Github: Veure carpeta CSV\Resultat
+- Zeonodo: Veure link https://zenodo.org/record/4244831#.X6RK1y3Tqu5

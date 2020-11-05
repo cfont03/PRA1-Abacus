@@ -42,15 +42,12 @@ Important: és necessari tenir instal·lat el "Chrome Driver" a la mateixa ruta 
 
 A més a més, en executar el script, l'usuari té la oportunitat d'escollir dos paràmetres, si s'escau:
 - Paràmetre 1: L'usuari pot escollir entre les següents classificacions. En cas de no indicar-se, es descarregaran les dades a partir de la pàgina principal (https://www.abacus.coop/es/libros)
-  - <top>
-  - novetat
-  - comic
-  - viatge
-  - informatica
-  - noficcio
-  - 
-
-
+  - *top*: Llibres més venuts
+  - *novetat*: Llibres en novetats
+  - *comic*: Llibres de tipologia comic
+  - *viatge*: Llibres de tipologia viatge
+  - *informatica*: Llibres de tipologia informàtica
+  - *noficcio*: Llibres de tipologia No-ficció
 - Paràmetre 2, número de pàgines: Variable numèrica. En cas de no indicar-se, es descarregaran les dades de totes les pàgines disponibles. 
 
 **(7)** Amb aquest tipus d'anàlisis pretenem respondre a les següents preguntes i actuar conseqüentment:

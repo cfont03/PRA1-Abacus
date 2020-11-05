@@ -40,7 +40,7 @@ pip install chromedriver-py
 ```
 Important: és necessari tenir instal·lat el "Chrome Driver" a la mateixa ruta des d'on s'executarà l'arxiu .py. 
 
-A més a més, en executar el script, l'usuari té la oportunitat d'escollir dos paràmetres, si s'escau:
+A més a més, en executar el script, l'usuari té la oportunitat d'escollir dos paràmetres, si s'escau, separats per un tabulador:
 - Paràmetre 1: L'usuari pot escollir entre les següents classificacions. En cas de no indicar-se, es descarregaran les dades a partir de la pàgina principal (https://www.abacus.coop/es/libros)
   - *top*: Llibres més venuts
   - *novetat*: Llibres en novetats

@@ -57,6 +57,8 @@ A més a més, en executar el script, l'usuari té la oportunitat d'escollir dos
 - Veure si l'editorial té una influència en el preu de venta
 - Veure'n les ofertes puntuals, analitzar cada quan es llancen i quin dia de la setmana per tal d'establir una política d'ofertes dins "La llar del llibre"
 
+**(4)** Per tal de veure'n una imatge representativa del resultat, veure la carpeta Resultat\Representació Gràfica
+
 ### Agraïments
 **(6)** En primer lloc, agraïm a la família Fàbregues, propietaris de "La llar del llibre", la plena confiança concedida en nosaltres. Aquesta fe ens dona la oportunitat de posar en pràctica real els coneixements adquirits al llarg dels nostres estudis. Per part nostra, esperem haver assolit els objectius i requeriments plantejats per "La llar del llibre" amb total plenitud. 
 En segon lloc, donar gràcies pel recolzament del professor col·laborador de la Universitat Oberta de Catalunya Sergio Trilles Oliver, per proporcionar-nos dels recursos necessaris per aprendre a fer "Web Scraping". 
@@ -73,5 +75,5 @@ Finalment, agrair el constant suport moral de les nostres famílies en el desenv
 
 ### Dataset
 **(10)** El resultat del data set es troba publicat en dues fonts diferents:
-- Github: Veure carpeta CSV\Resultat
+- Github: Veure carpeta Resultat\CSV
 - Zeonodo: Veure link https://zenodo.org/record/4244831#.X6RK1y3Tqu5

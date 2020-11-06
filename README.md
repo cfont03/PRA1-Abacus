@@ -79,9 +79,17 @@ Finalment, agrair el constant suport moral de les nostres famílies en el desenv
 - Zeonodo: 10.5281 / zenodo.4249668
   Font, Carlota y Dil, Jordi. (2020). Llibres Abacus (Versión v2.0) [Conjunto de datos]. Zenodo. Veure link https://doi.org/10.5281/zenodo.4249668
 
-### Contribucions
-**Contribucions**	                  
+### Contribucions      
 - Recerca prèvia:
+  - Jordi Dil Giró
+  - Carlota Font Castell
+- Redacció de les respostes
+  - Jordi Dil Giró
+  - Carlota Font Castell
+- Desenvolupament del codi
+  - Jordi Dil Giró
+  - Carlota Font Castell
+- Desenvolupament del respositori
   - Jordi Dil Giró
   - Carlota Font Castell
 

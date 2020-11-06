@@ -1,9 +1,0 @@
-**Contingut d'arxius del repositori**
-
-Aquest repositori ha estat desenvolupat pels estudiants Jordi Dil i Giró i la Carlota Font Castell, de l'assignatura Tipologia i Cicle de Vida de les dades, impartida a la Universitat Oberta de Catalunya.
-
-El repositori conté els següents fitxers:
-- **DataSet.jpg**: Representació gràfica
-- Abacus_Scraping.py
-- Abacus_Books.csv
-- Imatges

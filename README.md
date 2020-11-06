@@ -76,4 +76,5 @@ Finalment, agrair el constant suport moral de les nostres famílies en el desenv
 ### Dataset
 **(10)** El resultat del data set es troba publicat en dues fonts diferents:
 - Github: Veure carpeta Resultat\CSV
-- Zeonodo: Veure link https://zenodo.org/record/4244831#.X6RK1y3Tqu5
+- Zeonodo: 10.5281 / zenodo.4249668
+           Veure link https://doi.org/10.5281/zenodo.4249668

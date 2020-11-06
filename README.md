@@ -78,3 +78,14 @@ Finalment, agrair el constant suport moral de les nostres famílies en el desenv
 - Github: Veure arxiu Abacus_Books.csv
 - Zeonodo: 10.5281 / zenodo.4249668
   Font, Carlota y Dil, Jordi. (2020). Llibres Abacus (Versión v2.0) [Conjunto de datos]. Zenodo. Veure link https://doi.org/10.5281/zenodo.4249668
+
+### Contribucions
+Contribucions	                      Signatura
+Recerca prèvia	                    Jordi Gil Giró
+                                    Carlota Font Castell
+Redacció de les respostes	          Jordi Gil Giró
+                                    Carlota Font Castell
+Desenvolupament del codi	          Jordi Gil Giró
+                                    Carlota Font Castell
+Desenvolupament del repositori	    Jordi Gil Giró
+                                    Carlota Font Castell

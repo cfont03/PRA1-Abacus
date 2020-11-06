@@ -23,7 +23,7 @@ Amb l'objectiu de recuperar-ne el mercat, l'empresa s'ha adreçat a dos estudian
 - Número de referència Abacus
 - Encuadernació
 - Col·lecció
-- Materia
+- Matèria
 - Ruta
 - Imatge
 - Data d'extracció
@@ -57,7 +57,7 @@ A més a més, en executar el script, l'usuari té la oportunitat d'escollir dos
 - Veure si l'editorial té una influència en el preu de venta
 - Veure'n les ofertes puntuals, analitzar cada quan es llancen i quin dia de la setmana per tal d'establir una política d'ofertes dins "La llar del llibre"
 
-**(4)** Per tal de veure'n una imatge representativa del resultat, veure la carpeta Resultat\Representació Gràfica
+**(4)** Per tal de veure'n una imatge representativa del resultat, veure DataSet.jpg
 
 ### Agraïments
 **(6)** En primer lloc, agraïm a la família Fàbregues, propietaris de "La llar del llibre", la plena confiança concedida en nosaltres. Aquesta fe ens dona la oportunitat de posar en pràctica real els coneixements adquirits al llarg dels nostres estudis. Per part nostra, esperem haver assolit els objectius i requeriments plantejats per "La llar del llibre" amb total plenitud. 
@@ -71,10 +71,10 @@ Finalment, agrair el constant suport moral de les nostres famílies en el desenv
 - El material no pot ser emprat amb finalitats comercials i, per tant, l'àmbit es redueix purament a l'acadèmic, indicat sota el terme "Non Commercial". 
 
 ### Codificació
-**(9)** Veure arxiu Abacus.py
+**(9)** Veure arxiu Abacus_Scraping.py
 
 ### Dataset
 **(10)** El resultat del data set es troba publicat en dues fonts diferents:
-- Github: Veure carpeta Resultat\CSV
+- Github: Veure arxiu Abacus_Books.csv
 - Zeonodo: 10.5281 / zenodo.4249668
            Veure link https://doi.org/10.5281/zenodo.4249668

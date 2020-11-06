@@ -77,4 +77,4 @@ Finalment, agrair el constant suport moral de les nostres famílies en el desenv
 **(10)** El resultat del data set es troba publicat en dues fonts diferents:
 - Github: Veure arxiu Abacus_Books.csv
 - Zeonodo: 10.5281 / zenodo.4249668
-           Veure link https://doi.org/10.5281/zenodo.4249668
+  Font, Carlota y Dil, Jordi. (2020). Llibres Abacus (Versión v2.0) [Conjunto de datos]. Zenodo. Veure link https://doi.org/10.5281/zenodo.4249668

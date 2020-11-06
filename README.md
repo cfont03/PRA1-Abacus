@@ -21,14 +21,14 @@ Amb l'objectiu de recuperar-ne el mercat, l'empresa s'ha adreçat a dos estudian
 - Tipus de producte
 - Codi EAN
 - Número de referència Abacus
-- Encuadernació
+- Enquadernació
 - Col·lecció
 - Matèria
 - Ruta
 - Imatge
 - Data d'extracció
 
-Tot i que la variable del preu pot semblar la més important per a "La llar del llibre", recomanem col·leccionar també les altres dimensions disponibles, ja que poden tenir una influència directe en el preu (per exemple, la disponibilitat, el tipus d'encuadernació o l'editorial). 
+Tot i que la variable del preu pot semblar la més important per a "La llar del llibre", recomanem col·leccionar també les altres dimensions disponibles, ja que poden tenir una influència directe en el preu (per exemple, la disponibilitat, el tipus d'enquadernació o l'editorial). 
 Aquestes variables seran vàlides només en el moment que s'executa el script. És per tant que també recomanem que aquest s'executi de manera periòdica, ja sigui quinzenalment o mensualment, per tal de fer un seguiment de l'evolució de la disponibilitat del catàleg i dels seus preus. 
 
 Per tal d'executar el script en el llenguatge de programació Python, és necessari instal·lar les següents llibreries:
@@ -44,7 +44,7 @@ A més a més, en executar el script, l'usuari té la oportunitat d'escollir dos
 - Paràmetre 1: L'usuari pot escollir entre les següents classificacions. En cas de no indicar-se, es descarregaran les dades a partir de la pàgina principal (https://www.abacus.coop/es/libros)
   - *top*: Llibres més venuts
   - *novetat*: Llibres en novetats
-  - *comic*: Llibres de tipologia comic
+  - *comic*: Llibres de tipologia còmic
   - *viatge*: Llibres de tipologia viatge
   - *informatica*: Llibres de tipologia informàtica
   - *noficcio*: Llibres de tipologia No-ficció
@@ -89,7 +89,7 @@ Finalment, agrair el constant suport moral de les nostres famílies en el desenv
 - Desenvolupament del codi
   - Jordi Dil Giró
   - Carlota Font Castell
-- Desenvolupament del respositori
+- Desenvolupament del repositori
   - Jordi Dil Giró
   - Carlota Font Castell
 

@@ -66,9 +66,12 @@ Finalment, agrair el constant suport moral de les nostres famílies en el desenv
 A més a més, agrair a la Cooperativa Abacus, propietària de les dades, poder fer ús de les mateixes per a poder realitzar aquesta pràctica amb finalitat acadèmica.
 
 ### Llicència
-**(8)** El codi proporcionat així com les dades es publicarien sota la llicència Creative Commons Non-Commrcial i Share-Alike, també coneguda com CC BY-SA 4.0, i que inclou les següents condicions:
-- Es permet copiar, redistribuir, adaptar i modificar el material a través de qualsevol mitjà o format, així fomentant la col·laboració i filosofia "open-source".
-- Per tal de promoure'n la col·laboració, queda garantit que qualsevol modificació o ús del material serà publicat sota la mateixa llicència, indicat sota el terme "Share Alike". 
+**(8)**  El codi proporcionat així com les dades es publicarien sota la llicència Creative Commons Share-Alike, també coneguda com CC BY- SA 4.0, donats els següents motius:
+
+-	Es permet fer un ús comercial. Permetria que una empresa emprés les dades generades en projectes que reconeguessin l’autor original.
+-	Cal mantenir el nom del creador del conjunt de les dades i esmentar els canvis fets respecte la seva versió original.
+-	Les contribucions es distribuiran segons els paràmetres plantejats pel propi autor.
+
 
 ### Codificació
 **(9)** Veure arxiu Abacus_Scraping.py

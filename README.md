@@ -79,19 +79,5 @@ A més a més, agrair a la Cooperativa Abacus, propietària de les dades, poder 
 - Zeonodo: 10.5281 / zenodo.4249668
   Font, Carlota y Dil, Jordi. (2020). Llibres Abacus (Versión v2.0) [Conjunto de datos]. Zenodo. Veure link https://doi.org/10.5281/zenodo.4249668
 
-### Contribucions      
-- Recerca prèvia:
-  - Jordi Dil Giró
-  - Carlota Font Castell
-- Redacció de les respostes
-  - Jordi Dil Giró
-  - Carlota Font Castell
-- Desenvolupament del codi
-  - Jordi Dil Giró
-  - Carlota Font Castell
-- Desenvolupament del repositori
-  - Jordi Dil Giró
-  - Carlota Font Castell
-
 
 **Treball realitzat pels estudiants Jordi Dil Giró i Carlota Font Castell**

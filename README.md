@@ -63,12 +63,12 @@ A més a més, en executar el script, l'usuari té la oportunitat d'escollir dos
 **(6)** En primer lloc, agraïm a la família Fàbregues, propietaris de "La llar del llibre", la plena confiança concedida en nosaltres. Aquesta fe ens dona la oportunitat de posar en pràctica real els coneixements adquirits al llarg dels nostres estudis. Per part nostra, esperem haver assolit els objectius i requeriments plantejats per "La llar del llibre" amb total plenitud. 
 En segon lloc, donar gràcies pel recolzament del professor col·laborador de la Universitat Oberta de Catalunya Sergio Trilles Oliver, per proporcionar-nos dels recursos necessaris per aprendre a fer "Web Scraping". 
 Finalment, agrair el constant suport moral de les nostres famílies en el desenvolupament d'aquesta activitat. 
+A més a més, agrair a la Cooperativa Abacus, propietària de les dades, poder fer ús de les mateixes per a poder realitzar aquesta pràctica amb finalitat acadèmica.
 
 ### Llicència
-**(8)** El codi proporcionat així com les dades es publicarien sota la llicència Creative Commons Non-Commrcial i Share-Alike, també coneguda com CC BY-NC-SA 4.0, i que inclou les següents condicions:
+**(8)** El codi proporcionat així com les dades es publicarien sota la llicència Creative Commons Non-Commrcial i Share-Alike, també coneguda com CC BY-SA 4.0, i que inclou les següents condicions:
 - Es permet copiar, redistribuir, adaptar i modificar el material a través de qualsevol mitjà o format, així fomentant la col·laboració i filosofia "open-source".
 - Per tal de promoure'n la col·laboració, queda garantit que qualsevol modificació o ús del material serà publicat sota la mateixa llicència, indicat sota el terme "Share Alike". 
-- El material no pot ser emprat amb finalitats comercials i, per tant, l'àmbit es redueix purament a l'acadèmic, indicat sota el terme "Non Commercial". 
 
 ### Codificació
 **(9)** Veure arxiu Abacus_Scraping.py

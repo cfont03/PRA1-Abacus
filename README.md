@@ -78,9 +78,13 @@ En l'execució del script s'envien dos paràmetres:
 
 ### Dataset
 **(10)** El resultat del data set es troba publicat en dues fonts diferents:
+
 - Github: Veure arxiu Abacus_Books.csv
-- Zeonodo: 10.5281 / zenodo.4249668
-  Font, Carlota y Dil, Jordi. (2020). Llibres Abacus (Versión v2.0) [Conjunto de datos]. Zenodo. Veure link https://doi.org/10.5281/zenodo.4249668
+
+- Zenodo: 
+  DOI: 10.5281 / zenodo.4249668
+  Font, Carlota & Dil, Jordi. (2020). Catàleg de llibres Abacus Coop. (Versión v2.0) [Data set]. Zenodo.
+  https://doi.org/10.5281/zenodo.4249668
 
 
 **Treball realitzat pels estudiants Jordi Dil Giró i Carlota Font Castell**

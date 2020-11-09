@@ -40,7 +40,8 @@ pip install chromedriver-py
 ```
 Important: és necessari tenir instal·lat el "Chrome Driver" a la mateixa ruta des d'on s'executarà l'arxiu .py. 
 
-A més a més, en executar el script, l'usuari té la oportunitat d'escollir dos paràmetres, si s'escau, separats per un tabulador:
+En l'execució del script s'envien dos paràmetres:
+
 - Paràmetre 1: L'usuari pot escollir entre les següents classificacions. En cas de no indicar-se, es descarregaran les dades a partir de la pàgina principal (https://www.abacus.coop/es/libros)
   - *top*: Llibres més venuts
   - *novetat*: Llibres en novetats
@@ -48,7 +49,8 @@ A més a més, en executar el script, l'usuari té la oportunitat d'escollir dos
   - *viatge*: Llibres de tipologia viatge
   - *informatica*: Llibres de tipologia informàtica
   - *noficcio*: Llibres de tipologia No-ficció
-- Paràmetre 2, número de pàgines: Variable numèrica. En cas de no indicar-se, es descarregaran les dades de totes les pàgines disponibles. 
+  
+- Paràmetre 2, número de pàgines: Variable numèrica. En cas de no indicar-se o indicar-se 0, es descarregaran les dades de totes les pàgines disponibles. 
 
 **(7)** Amb aquest tipus d'anàlisis pretenem respondre a les següents preguntes i actuar conseqüentment:
 - Evolució de preus (tant PVP com de socis) per llibre i al llarg del temps, la qual cosa permetrà al nostre client adaptar-ne els preus.
@@ -56,17 +58,15 @@ A més a més, en executar el script, l'usuari té la oportunitat d'escollir dos
 - Conèixer quins llibres té l'Abacus Coop. en catàleg i oferir-los si s'escau
 - Veure si l'editorial té una influència en el preu de venta
 - Veure'n les ofertes puntuals, analitzar cada quan es llancen i quin dia de la setmana per tal d'establir una política d'ofertes dins "La llar del llibre"
+- Analitzar les novetats editorials en funció de diversos criteris: preus, editorial, tipus
 
 **(4)** Per tal de veure'n una imatge representativa del resultat, veure DataSet.jpg
 
 ### Agraïments
-**(6)** En primer lloc, agraïm a la família Fàbregues, propietaris de "La llar del llibre", la plena confiança concedida en nosaltres. Aquesta fe ens dona la oportunitat de posar en pràctica real els coneixements adquirits al llarg dels nostres estudis. Per part nostra, esperem haver assolit els objectius i requeriments plantejats per "La llar del llibre" amb total plenitud. 
-En segon lloc, donar gràcies pel recolzament del professor col·laborador de la Universitat Oberta de Catalunya Sergio Trilles Oliver, per proporcionar-nos dels recursos necessaris per aprendre a fer "Web Scraping". 
-Finalment, agrair el constant suport moral de les nostres famílies en el desenvolupament d'aquesta activitat. 
-A més a més, agrair a la Cooperativa Abacus, propietària de les dades, poder fer ús de les mateixes per a poder realitzar aquesta pràctica amb finalitat acadèmica.
+**(6)** Agrair a la Cooperativa Abacus (https://www.abacus.coop/es/home), propietària de les dades, poder fer ús de les mateixes.
 
 ### Llicència
-**(8)**  El codi proporcionat així com les dades es publicarien sota la llicència Creative Commons Share-Alike, també coneguda com CC BY- SA 4.0, donats els següents motius:
+**(8)**  El codi proporcionat així com les dades es publicarien sota la llicència Creative Commons Share-Alike, també coneguda com CC BY-SA 4.0, donats els següents motius:
 
 -	Es permet fer un ús comercial. Permetria que una empresa emprés les dades generades en projectes que reconeguessin l’autor original.
 -	Cal mantenir el nom del creador del conjunt de les dades i esmentar els canvis fets respecte la seva versió original.

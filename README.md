@@ -83,6 +83,7 @@ En l'execució del script s'envien dos paràmetres:
 
 - Zenodo: 
   DOI: 10.5281 / zenodo.4249668
+  
   Font, Carlota & Dil, Jordi. (2020). Catàleg de llibres Abacus Coop. (Versión v2.0) [Data set]. Zenodo.
   https://doi.org/10.5281/zenodo.4249668
 
